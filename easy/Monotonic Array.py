@@ -16,6 +16,3 @@ class Solution:
                 pm = 1
 
         return True
-
-
-print(Solution().isMonotonic([1,3,2]))
